@@ -1,6 +1,6 @@
 {
   "name": "module-settings",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "",
   "main": "./src/module.js",
   "repository": {
@@ -14,7 +14,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "engine": "file:///home/tzenaro/projects/rd/assinatura/react-native-multi-module-poc/internal_folder/engine/engine-0.0.5.tgz"
+    "engine": "file:///home/tzenaro/projects/rd/assinatura/react-native-multi-module-poc/internal_folder/engine/engine-0.0.6.tgz"
   },
   "peerDependencies": {
     "engine": "*"
